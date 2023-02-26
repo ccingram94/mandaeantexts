@@ -25,7 +25,7 @@ export default function Ginza() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
-      <main className="flex flex-col text-center items-center bg-gradient-to-br min-h-screen from-violet-300 to-indigo-300 via-blue-100">
+      <main className="flex flex-col text-center items-center bg-gradient-to-br min-h-screen h-full bg-gradient-to-br from-amber-50 to-amber-50 via-stone-50">
         <div className='p-2 pt-12 m-2 font-bold text-violet-900 text-xl lg:text-3xl'>
           <h3>Ginza Rabba</h3>
           <p>ࡂࡉࡍࡆࡀ ࡓࡁࡀ</p>

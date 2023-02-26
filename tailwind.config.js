@@ -8,7 +8,11 @@ module.exports = {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'epigraph': "url('/epigraph.png')",
+      },
+    },
   },
   plugins: [],
 }
